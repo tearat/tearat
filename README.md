@@ -12,5 +12,4 @@
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=ruby) ![Rails](https://img.shields.io/badge/-Rails-000000?style=for-the-badge&logo=Ruby+on+rails)
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu) ![Arch linux](https://img.shields.io/badge/-ArchLinux-000000?style=for-the-badge&logo=Arch+linux) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinSeville7cf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
