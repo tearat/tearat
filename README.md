@@ -12,6 +12,8 @@
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=ruby) ![Rails](https://img.shields.io/badge/-Rails-000000?style=for-the-badge&logo=Ruby+on+rails)
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
+#### Things I study
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust) ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=for-the-badge&logo=tensorflow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tearat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
