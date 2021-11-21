@@ -1,6 +1,6 @@
 ## Hi there :cat2:
 
-### I am fullstack developer 🌱
+### I am a fullstack developer 🌱
 
 ---
 
@@ -11,5 +11,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=ruby) ![Rails](https://img.shields.io/badge/-Rails-000000?style=for-the-badge&logo=Ruby+on+rails)
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tearat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
