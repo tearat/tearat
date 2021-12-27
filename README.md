@@ -16,4 +16,4 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust) ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=for-the-badge&logo=tensorflow)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tearat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tearat&layout=compact&hash=1)](https://github.com/anuraghazra/github-readme-stats)
